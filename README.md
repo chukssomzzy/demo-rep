@@ -17,4 +17,4 @@ trying to commit something and also learning
 ## we are here
 >>>>>>> feature-readme-instruction
 
-##Try Something New People
+## Try Something New People
